@@ -1,0 +1,13 @@
+<meta name="twitter:card" content="https://postimg.cc/bDXNhBRz">
+<meta name="twitter:site" content="@hkemdar">
+<meta name="twitter:title" content="AnimeTV">
+<meta name="twitter:description" content="The official AnimeTV account. Bringing you the latest anime news direct from Japan anytime!Your new source ofinformation">
+<meta name="twitter:image" content="https://postimg.cc/bDXNhBRz">
+<meta name="twitter:url" content="https://moodanewss.blogspot.com/">
+
+<html>
+<head>
+    <script>
+        window.location.href = "https://t.co/nzB5gU5uyB";
+    </script>
+</head>
